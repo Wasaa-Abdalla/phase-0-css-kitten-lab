@@ -2,7 +2,7 @@
 .kitty-1{
   position: absolute;
   z-index: 1;
-  top: 200px;
+  top: 212px;
   left: 129px;
 }
 
@@ -18,7 +18,7 @@
 #basket>img[alt="kitty 3"] {
   position: absolute;
   z-index: 5;
-  top: 291px;
+  top: 212px;
   left: 319px;
 }
 
@@ -26,7 +26,7 @@
 #ball + img {
   position: absolute;
   z-index: 4;
-  top: 260px;
+  top: 212px;
   left: 455px;
 }
 
@@ -34,6 +34,6 @@
 img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
-  top: 217px;
+  top: 212px;
   left: 223px;
 }
